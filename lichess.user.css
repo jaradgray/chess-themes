@@ -1,0 +1,43 @@
+/* Board */
+cg-board {
+    background-image: url('') !important;
+}
+
+/* Pieces */
+.white.king {
+    background-image: url('') !important;
+}
+.white.queen {
+    background-image: url('') !important;
+}
+.white.rook {
+    background-image: url('') !important;
+}
+.white.bishop {
+    background-image: url('') !important;
+}
+.white.knight {
+    background-image: url('') !important;
+}
+.white.pawn {
+    background-image: url('') !important;
+}
+
+.black.king {
+    background-image: url('') !important;
+}
+.black.queen {
+    background-image: url('') !important;
+}
+.black.rook {
+    background-image: url('') !important;
+}
+.black.bishop {
+    background-image: url('') !important;
+}
+.black.knight {
+    background-image: url('') !important;
+}
+.black.pawn {
+    background-image: url('') !important;
+}

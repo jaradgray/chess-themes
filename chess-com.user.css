@@ -1,0 +1,101 @@
+/* Normal board squares */
+/* https://images.chesscomfiles.com/chess-themes/boards/light/256.png */
+chess-board {
+    background-image: url('') !important; /* picture of entire board, 2048x2048 */
+}
+
+/* Board */
+#board-vs-personalities, /* vs bots */
+#board-single, /* vs people */
+#board-analysis-board,
+.fade-in-overlay {
+    background-image: url('') !important; /* picture of entire board, 2048x2048 */
+}
+
+/* Pieces */
+#board-vs-personalities .piece.wk,  /* vs bots */
+#board-vs-personalities .promotion-piece.wk,  /* vs bots */
+#board-single .piece.wk,  /* vs people */
+#board-single .promotion-piece.wk  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.wq,  /* vs bots */
+#board-vs-personalities .promotion-piece.wq,  /* vs bots */
+#board-single .piece.wq,  /* vs people */
+#board-single .promotion-piece.wq  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.wr,  /* vs bots */
+#board-vs-personalities .promotion-piece.wr,  /* vs bots */
+#board-single .piece.wr,  /* vs people */
+#board-single .promotion-piece.wr  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.wb,  /* vs bots */
+#board-vs-personalities .promotion-piece.wb,  /* vs bots */
+#board-single .piece.wb,  /* vs people */
+#board-single .promotion-piece.wb  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.wn,  /* vs bots */
+#board-vs-personalities .promotion-piece.wn,  /* vs bots */
+#board-single .piece.wn,  /* vs people */
+#board-single .promotion-piece.wn  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.wp,  /* vs bots */
+#board-vs-personalities .promotion-piece.wp,  /* vs bots */
+#board-single .piece.wp,  /* vs people */
+#board-single .promotion-piece.wp  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+
+
+#board-vs-personalities .piece.bk,  /* vs bots */
+#board-vs-personalities .promotion-piece.bk,  /* vs bots */
+#board-single .piece.bk,  /* vs people */
+#board-single .promotion-piece.bk  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.bq,  /* vs bots */
+#board-vs-personalities .promotion-piece.bq,  /* vs bots */
+#board-single .piece.bq,  /* vs people */
+#board-single .promotion-piece.bq  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.br,  /* vs bots */
+#board-vs-personalities .promotion-piece.br,  /* vs bots */
+#board-single .piece.br,  /* vs people */
+#board-single .promotion-piece.br  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.bb,  /* vs bots */
+#board-vs-personalities .promotion-piece.bb,  /* vs bots */
+#board-single .piece.bb,  /* vs people */
+#board-single .promotion-piece.bb  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.bn,  /* vs bots */
+#board-vs-personalities .promotion-piece.bn,  /* vs bots */
+#board-single .piece.bn,  /* vs people */
+#board-single .promotion-piece.bn  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
+#board-vs-personalities .piece.bp,  /* vs bots */
+#board-vs-personalities .promotion-piece.bp,  /* vs bots */
+#board-single .piece.bp,  /* vs people */
+#board-single .promotion-piece.bp  /* vs people */
+{
+    background-image: url('') !important; /* 256x256 */
+}
