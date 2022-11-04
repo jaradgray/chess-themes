@@ -13,89 +13,65 @@ chess-board {
 }
 
 /* Pieces */
-#board-vs-personalities .piece.wk,  /* vs bots */
-#board-vs-personalities .promotion-piece.wk,  /* vs bots */
-#board-single .piece.wk,  /* vs people */
-#board-single .promotion-piece.wk  /* vs people */
+.piece.wk,
+.promotion-piece.wk
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.wq,  /* vs bots */
-#board-vs-personalities .promotion-piece.wq,  /* vs bots */
-#board-single .piece.wq,  /* vs people */
-#board-single .promotion-piece.wq  /* vs people */
+.piece.wq,
+.promotion-piece.wq
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.wr,  /* vs bots */
-#board-vs-personalities .promotion-piece.wr,  /* vs bots */
-#board-single .piece.wr,  /* vs people */
-#board-single .promotion-piece.wr  /* vs people */
+.piece.wr,
+.promotion-piece.wr
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.wb,  /* vs bots */
-#board-vs-personalities .promotion-piece.wb,  /* vs bots */
-#board-single .piece.wb,  /* vs people */
-#board-single .promotion-piece.wb  /* vs people */
+.piece.wb,
+.promotion-piece.wb
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.wn,  /* vs bots */
-#board-vs-personalities .promotion-piece.wn,  /* vs bots */
-#board-single .piece.wn,  /* vs people */
-#board-single .promotion-piece.wn  /* vs people */
+.piece.wn,
+.promotion-piece.wn
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.wp,  /* vs bots */
-#board-vs-personalities .promotion-piece.wp,  /* vs bots */
-#board-single .piece.wp,  /* vs people */
-#board-single .promotion-piece.wp  /* vs people */
+.piece.wp,
+.promotion-piece.wp
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
 
 
-#board-vs-personalities .piece.bk,  /* vs bots */
-#board-vs-personalities .promotion-piece.bk,  /* vs bots */
-#board-single .piece.bk,  /* vs people */
-#board-single .promotion-piece.bk  /* vs people */
+.piece.bk,
+.promotion-piece.bk
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.bq,  /* vs bots */
-#board-vs-personalities .promotion-piece.bq,  /* vs bots */
-#board-single .piece.bq,  /* vs people */
-#board-single .promotion-piece.bq  /* vs people */
+.piece.bq,
+.promotion-piece.bq
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.br,  /* vs bots */
-#board-vs-personalities .promotion-piece.br,  /* vs bots */
-#board-single .piece.br,  /* vs people */
-#board-single .promotion-piece.br  /* vs people */
+.piece.br,
+.promotion-piece.br
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.bb,  /* vs bots */
-#board-vs-personalities .promotion-piece.bb,  /* vs bots */
-#board-single .piece.bb,  /* vs people */
-#board-single .promotion-piece.bb  /* vs people */
+.piece.bb,
+.promotion-piece.bb
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.bn,  /* vs bots */
-#board-vs-personalities .promotion-piece.bn,  /* vs bots */
-#board-single .piece.bn,  /* vs people */
-#board-single .promotion-piece.bn  /* vs people */
+.piece.bn,
+.promotion-piece.bn
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
-#board-vs-personalities .piece.bp,  /* vs bots */
-#board-vs-personalities .promotion-piece.bp,  /* vs bots */
-#board-single .piece.bp,  /* vs people */
-#board-single .promotion-piece.bp  /* vs people */
+.piece.bp,
+.promotion-piece.bp
 {
-    background-image: url('') !important; /* 256x256 */
+    background-image: url('') !important;
 }
